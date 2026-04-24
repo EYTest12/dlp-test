@@ -1,1 +1,4 @@
-# dlp-test
+First and Last Name	SSN	Credit Card Number	First and Last Name	SSN	Credit Card Number	First and Last Name	SSN	Credit Card Number	First and Last Name	SSN	Credit Card Number	First and Last Name	SSN	Credit Card Number	First and Last Name	SSN	Credit Card Number
+		Visa MC AMEX			Visa MC AMEX			Visa MC AMEX			Visa MC AMEX			Visa MC AMEX			Visa MC AMEX
+Robert Aragon	489-36-8350	4929-3813-3266-4295	Robert Aragon	489-36-8351	4929-3813-3266-4296	Robert Aragon	489-36-8352	4929-3813-3266-4297	Robert Aragon	489-36-8353	4929-3813-3266-4298	Robert Aragon	489-36-8354	4929-3813-3266-4299	Robert Aragon	489-36-8355	4929-3813-3266-4300
+Ashley Borden	514-14-8905	5370-4638-8881-3020	Ashley Borden	514-14-8906	5370-4638-8881-3021	Ashley Borden	514-14-8907	5370-4638-8881-3022	Ashley Borden	514-14-8908	5370-4638-8881-3023	Ashley Borden	514-14-8909	5370-4638-8881-3024	Ashley Borden	514-14-8910	5370-4638-8881-3025
